@@ -16,7 +16,7 @@ website:
         text: Resume 
       - text: Assignments 
         menu: 
-        - href: ResumeR.pdf
+        - href: EPPS6354-210004.pdf
           text: "Assignment 1"
       - text: Labs 
         menu: 
