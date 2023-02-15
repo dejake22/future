@@ -18,6 +18,12 @@ website:
         menu: 
         - href: ResumeR.pdf
           text: "Assignment 1"
+      - text: Labs 
+        menu: 
+        - href: Lab01.qmd
+          text: "Lab 1"   
+        - href: Lab02.qmd
+          text: "Lab 2" 
       - contact.qmd
 
 format:
