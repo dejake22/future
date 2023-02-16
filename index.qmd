@@ -18,7 +18,7 @@ about:
       href: https://github.com
     - icon: file-text
       text: resume
-      href: ResumeR.pdf
+      href: future/ResumeR.pdf
 ---
 
 I have 10+ years of professional total IT experience in design, develop, build and deployment of Software, Database, Web Applications and 4+ years of hands-on experience in architecting, automating and optimizing mission critical deployments over large infrastructure. 
