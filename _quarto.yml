@@ -4,6 +4,19 @@ project:
 
 website:
   title: "Samuel Adelusi"
+  page-navigation: true
+  description: "Samuel's personal website"
+  site-url: "https://dejake22.github.io/future"
+  
+  twitter-card: 
+    creator: "@sam-ade23"
+    image: "images/logo_image2.jpeg" 
+  
+  page-footer:
+    right: "EPPS 6323 - Knowledge Mining | Spring 2023"
+    left: "Copyright &copy; 2023, All right reserved."
+    background: "#3459e6"
+    
   navbar:
     left:
       - href: index.qmd
@@ -14,10 +27,18 @@ website:
         text: Research
       - href: ResumeR.pdf
         text: Resume 
-      - text: Assignments 
+      - text: Infomation Management 
         menu: 
         - href: EPPS6354-210004.pdf
           text: "Assignment 1"
+        - href: EPPS6354Assignment2.pdf
+          text: "Assignment 2" 
+        - href: EPPS6354Assignment3.pdf
+          text: "Assignment 3" 
+      - text: Knowledge Mining 
+        menu: 
+        - href: EPPS6354-210004.pdf
+          text: "Assignment 1"      
       - text: Labs 
         menu: 
         - href: Lab01.qmd
@@ -35,6 +56,3 @@ format:
     mainfont: Century Gothic
     monofont: Calibri 
     
-
-
-
