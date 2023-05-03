@@ -35,10 +35,30 @@ website:
           text: "Assignment 2" 
         - href: EPPS6354Assignment3.pdf
           text: "Assignment 3" 
+        - href: EPPS6354Assignment4.pdf
+          text: "Assignment 4"
+        - href: EPPS6354Assignment5.pdf
+          text: "Assignment 5" 
+        - href: EPPS6354Assignment6.pdf
+          text: "Assignment 6" 
       - text: Knowledge Mining 
         menu: 
-        - href: EPPS6354-210004.pdf
-          text: "Assignment 1"      
+        - href: EPPS6323-Assignment1.pdf
+          text: "Assignment 1"   
+        - href: EPPS6323-Assignment2.pdf
+          text: "Assignment 2" 
+        - href: EPPS6323-Assignment3.pdf
+          text: "Assignment 3"   
+        - href: EPPS6323-Assignment4.pdf
+          text: "Assignment 4" 
+        - href: EPPS6323-Assignment5.pdf
+          text: "Assignment 5"   
+        - href: EPPS6323-Assignment6.pdf
+          text: "Assignment 6"    
+        - href: EPPS6323-Assignment7.pdf
+          text: "Assignment 7"   
+        - href: EPPS6323-Assignment7.pdf
+          text: "Assignment 8"           
       - text: Labs 
         menu: 
         - href: Lab01.qmd
